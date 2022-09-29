@@ -1,0 +1,228 @@
+{
+    "employees":
+    [
+    {
+        "id": 1,
+        "first_name": "Raymund",
+        "last_name": "Speed",
+        "email": "rspeed0@google.es",
+        "gender": "Male",
+        "role_id": 1
+    },
+    {
+        "id": 2,
+        "first_name": "Melanie",
+        "last_name": "Hyde",
+        "email": "mhyde1@springer.com",
+        "gender": "Female",
+        "role_id": 2
+    },
+    {
+        "id": 3,
+        "first_name": "Anatole",
+        "last_name": "Heading",
+        "email": "aheading2@mail.ru",
+        "gender": "Male",
+        "role_id": 3
+    },
+    {
+        "id": 4,
+        "first_name": "Shep",
+        "last_name": "Lauxmann",
+        "email": "slauxmann3@homestead.com",
+        "gender": "Male",
+        "role_id": 2
+    },
+    {
+        "id": 5,
+        "first_name": "Lilla",
+        "last_name": "Coddington",
+        "email": "lcoddington4@bluehost.com",
+        "gender": "Female",
+        "role_id": 3
+    },
+    {
+        "id": 6,
+        "first_name": "Ezri",
+        "last_name": "Kaemena",
+        "email": "ekaemena5@bbc.co.uk",
+        "gender": "Male",
+        "role_id": 1
+    },
+    {
+        "id": 7,
+        "first_name": "Lisha",
+        "last_name": "Cradey",
+        "email": "lcradey6@mit.edu",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 8,
+        "first_name": "Ashia",
+        "last_name": "McClintock",
+        "email": "amcclintock7@studiopress.com",
+        "gender": "Female",
+        "role_id": 3
+    },
+    {
+        "id": 9,
+        "first_name": "Noe",
+        "last_name": "Tripett",
+        "email": "ntripett8@disqus.com",
+        "gender": "Male",
+        "role_id": 3
+    },
+    {
+        "id": 10,
+        "first_name": "Barbaraanne",
+        "last_name": "Benadette",
+        "email": "bbenadette9@cbsnews.com",
+        "gender": "Female",
+        "role_id": 3
+    },
+    {
+        "id": 11,
+        "first_name": "Elle",
+        "last_name": "Colthard",
+        "email": "ecoltharda@mediafire.com",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 12,
+        "first_name": "Sashenka",
+        "last_name": "Reiner",
+        "email": "sreinerb@de.vu",
+        "gender": "Genderqueer",
+        "role_id": 2
+    },
+    {
+        "id": 13,
+        "first_name": "Venus",
+        "last_name": "MacNeil",
+        "email": "vmacneilc@phoca.cz",
+        "gender": "Non-binary",
+        "role_id": 3
+    },
+    {
+        "id": 14,
+        "first_name": "Sophi",
+        "last_name": "Geater",
+        "email": "sgeaterd@statcounter.com",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 15,
+        "first_name": "Madonna",
+        "last_name": "Ayton",
+        "email": "maytone@twitter.com",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 16,
+        "first_name": "Aleen",
+        "last_name": "Pontefract",
+        "email": "apontefractf@desdev.cn",
+        "gender": "Female",
+        "role_id": 2
+    },
+    {
+        "id": 17,
+        "first_name": "Joachim",
+        "last_name": "Radeliffe",
+        "email": "jradeliffeg@independent.co.uk",
+        "gender": "Male",
+        "role_id": 1
+    },
+    {
+        "id": 18,
+        "first_name": "Gabrielle",
+        "last_name": "Troake",
+        "email": "gtroakeh@vk.com",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 19,
+        "first_name": "Cordy",
+        "last_name": "Belford",
+        "email": "cbelfordi@gov.uk",
+        "gender": "Male",
+        "role_id": 2
+    },
+    {
+        "id": 20,
+        "first_name": "Reinhard",
+        "last_name": "Steart",
+        "email": "rsteartj@addtoany.com",
+        "gender": "Male",
+        "role_id": 3
+    },
+    {
+        "id": 21,
+        "first_name": "Maxie",
+        "last_name": "Platfoot",
+        "email": "mplatfootk@dedecms.com",
+        "gender": "Male",
+        "role_id": 2
+    },
+    {
+        "id": 22,
+        "first_name": "Colette",
+        "last_name": "Crombleholme",
+        "email": "ccrombleholmel@netscape.com",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 23,
+        "first_name": "Myca",
+        "last_name": "Nilles",
+        "email": "mnillesm@marketwatch.com",
+        "gender": "Male",
+        "role_id": 2
+    },
+    {
+        "id": 24,
+        "first_name": "Erma",
+        "last_name": "McIlhone",
+        "email": "emcilhonen@google.de",
+        "gender": "Female",
+        "role_id": 3
+    },
+    {
+        "id": 25,
+        "first_name": "Dixie",
+        "last_name": "Antoniewski",
+        "email": "dantoniewskio@t.co",
+        "gender": "Female",
+        "role_id": 1
+    },
+    {
+        "id": 26,
+        "first_name": "Raviv",
+        "last_name": "Konzel",
+        "email": "rkonzelp@indiatimes.com",
+        "gender": "Male",
+        "role_id": 3
+    }
+    ],
+
+    "roles": [
+        {
+            "id": 1,
+            "name": "Manager"
+        },
+        {
+            "id": 2,
+            "name": "Engineer"
+        },
+        {
+            "id": 3,
+            "name": "Intern"
+        }
+    ]
+}
