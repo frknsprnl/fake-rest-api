@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:server": "json-server --watch api/employees.json"
+    "start:server": "json-server --watch api/employees.json",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
