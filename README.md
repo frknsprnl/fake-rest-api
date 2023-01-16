@@ -1,18 +1,18 @@
 # fake-rest-api
 
-### **baseURL** : https://fakerestapifs.herokuapp.com/
+### **baseURL** : https://fakerestapi.glitch.me/
 <br>
 
 <pre>
 <b>GET | GET ALL EMPLOYEES</b>
 
-<a href="https://fakerestapifs.herokuapp.com/employees">/employees</a> 
+<a href="https://fakerestapi.glitch.me/employees">/employees</a> 
 </pre>
 
 <pre>
 <b>GET | GET ALL ROLES</b>
 
-<a href="https://fakerestapifs.herokuapp.com/roles">/roles</a> 
+<a href="https://fakerestapi.glitch.me/roles">/roles</a> 
 </pre>
 
 <pre>
@@ -24,19 +24,19 @@
 <pre>
 <b>GET | GET ROLES EMBED EMPLOYEES</b>
 
-<a href="https://fakerestapifs.herokuapp.com/roles?_embed=employees">/roles<b>?_embed=employees</b></a> 
+<a href="https://fakerestapi.glitch.me/roles?_embed=employees">/roles<b>?_embed=employees</b></a> 
 </pre>
 
 <pre>
 <b>GET | GET EMPLOYEES EXPAND ROLES</b>
 
-<a href="https://fakerestapifs.herokuapp.com/employees?_expand=role">/employees<b>?_expand=role</b></a> 
+<a href="https://fakerestapi.glitch.me/employees?_expand=role">/employees<b>?_expand=role</b></a> 
 </pre>
 
 <pre>
 <b>POST | CREATE NEW EMPLOYEE</b>
 
-<a>/employees</a> 
+<a href="https://fakerestapi.glitch.me/employees">/employees</a> 
 </pre>
 
 <pre>
